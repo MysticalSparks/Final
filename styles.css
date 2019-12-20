@@ -1,0 +1,17 @@
+body
+{
+    background-image: url(images/background.png);
+    font-family: Arial, sans-serif;
+    background-color: #ebdddd;
+    text-align:center;
+
+}
+h1{
+    color:#FF0000;
+    font-size: 100px;
+   
+}
+p{
+    /*background-color: pink;*/
+    color:#2a4378;
+}
